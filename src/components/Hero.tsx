@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
               >
                 <Sparkles className="w-4 h-4 mr-2" />
-                Professional Web Solutions in Auckland
+                Professional Web Solutions in Auckland.
               </motion.span>
               <h1 className="text-balance">Bringing Local Businesses Online with Expert Web Solutions</h1>
               <p className="mt-6 text-lg text-primary-100 max-w-xl">
