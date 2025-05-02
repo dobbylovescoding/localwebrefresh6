@@ -17,7 +17,7 @@ const About: React.FC = () => {
             <div className="relative rounded-lg shadow-medium overflow-hidden">
               <div className="absolute -inset-0.5 bg-gradient-to-tr from-primary-700 to-primary-600/0 rounded-lg"></div>
               <img 
-                src="/conor-image.jpg" 
+                src="//s3-us-west-1.amazonaws.com/s3b-usw-1-production/175/1195/file-01968fcde975789ebc9796eb1fc204b3-big.jpeg" 
                 alt="Conor from Local Web Refresh" 
                 className="relative z-10 rounded-lg w-full"
               />
